@@ -1,5 +1,4 @@
 import finsymbols
-#from yahoo_finance import Share
 from iexfinance import Stock
 from coinmarketcap import Market
 import urllib3
